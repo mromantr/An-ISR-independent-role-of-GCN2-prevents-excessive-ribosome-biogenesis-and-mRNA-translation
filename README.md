@@ -13,9 +13,7 @@ This repository contains RNA sequencing and proteomics data for various cell lin
 
 ### Proteomics Data
 - A375 cells
-- HepG2 cells
-- IPC298 cells
-- HUVECs
+
 
 ### Code
 - Contains scripts and analyses related to RNAseq and proteomics data.
