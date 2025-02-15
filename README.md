@@ -10,6 +10,7 @@ This repository contains RNA sequencing and proteomics data for various cell lin
 - IPC298 cells
 - MiaPaCa2 cells
 - HUVECs
+- Xenografts
 
 ### Proteomics Data
 - A375 cells
